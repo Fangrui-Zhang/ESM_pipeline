@@ -4,3 +4,6 @@ __pycache__/
 .env
 .DS_Store
 data/
+!data/esmfold_status.csv
+!data/esmfold_structures/
+!data/esmfold_structures/*.pdb
