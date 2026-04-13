@@ -3,7 +3,13 @@ __pycache__/
 .venv/
 .env
 .DS_Store
-data/
-!data/esmfold_status.csv
-!data/esmfold_structures/
-!data/esmfold_structures/*.pdb
+
+# Exclude heavy/generated data files
+data/str_cache/
+data/temp_files/
+
+# ZIP is too large for GitHub (>100 MB) – share manually
+data/esmfold_structures_package.zip
+
+# PDB files – too large for GitHub; share via ZIP
+data/esmfold_structures/*.pdb
