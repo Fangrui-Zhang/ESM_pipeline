@@ -1,0 +1,98 @@
+protein_id,bmrb_id,entity_id,status,error
+bmr4115_entity2,4115,2,invalid_sequence,invalid sequence characters: .
+bmr4401_entity2,4401,2,invalid_sequence,invalid sequence characters: .
+bmr5471_entity1,5471,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr5759_entity1,5759,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr6229_entity1,6229,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr6524_entity1,6524,1,invalid_sequence,invalid sequence characters: .
+bmr6526_entity1,6526,1,invalid_sequence,invalid sequence characters: .
+bmr7315_entity3,7315,3,invalid_sequence,invalid sequence characters: .
+bmr7375_entity1,7375,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr11074_entity1,11074,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr11074_entity2,11074,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr11506_entity1,11506,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr15164_entity1,15164,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr15589_entity2,15589,2,invalid_sequence,invalid sequence characters: .
+bmr16273_entity1,16273,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17177_entity1,17177,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17415_entity1,17415,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17602_entity1,17602,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17652_entity1,17652,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17804_entity1,17804,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17844_entity2,17844,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17920_entity1,17920,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr17999_entity1,17999,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr18339_entity1,18339,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr18689_entity1,18689,1,invalid_sequence,invalid sequence characters: .
+bmr19038_entity1,19038,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19135_entity1,19135,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19219_entity1,19219,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19301_entity1,19301,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19506_entity1,19506,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19740_entity1,19740,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19835_entity2,19835,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19836_entity2,19836,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr19837_entity2,19837,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr25500_entity2,25500,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr25532_entity1,25532,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr25731_entity1,25731,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26595_entity2,26595,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26641_entity1,26641,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26684_entity1,26684,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26702_entity1,26702,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26702_entity2,26702,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26702_entity3,26702,3,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26702_entity4,26702,4,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26804_entity1,26804,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26841_entity1,26841,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr26960_entity1,26960,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27188_entity1,27188,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27239_entity1,27239,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27242_entity1,27242,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27520_entity1,27520,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27762_entity1,27762,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27783_entity1,27783,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27784_entity1,27784,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27872_entity2,27872,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr27874_entity2,27874,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr30080_entity2,30080,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr30638_entity2,30638,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr30943_entity1,30943,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50158_entity1,50158,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50256_entity1,50256,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50370_entity1,50370,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50554_entity2,50554,2,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50701_entity1,50701,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51105_entity1,51105,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51176_entity1,51176,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51413_entity1,51413,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51418_entity1,51418,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51480_entity1,51480,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51685_entity1,51685,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51690_entity1,51690,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51755_entity1,51755,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr51894_entity1,51894,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52273_entity1,52273,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52293_entity1,52293,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52296_entity1,52296,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52297_entity1,52297,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52298_entity1,52298,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52300_entity1,52300,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52301_entity1,52301,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52302_entity1,52302,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52305_entity1,52305,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52306_entity1,52306,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52307_entity1,52307,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52310_entity1,52310,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52339_entity1,52339,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52346_entity1,52346,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52376_entity1,52376,1,invalid_sequence,invalid sequence characters: '
+bmr52383_entity1,52383,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52394_entity1,52394,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52418_entity1,52418,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr52554_entity1,52554,1,too_large,413 Client Error: Request Entity Too Large for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr5288_entity2,5288,2,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34225_entity2,34225,2,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34577_entity2,34577,2,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34578_entity2,34578,2,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50015_entity1,50015,1,failed_retry,422 Client Error:  for url: https://api.esmatlas.com/foldSequence/v1/pdb/

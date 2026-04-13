@@ -1,0 +1,19 @@
+protein_id,bmrb_id,entity_id,pdb_path,status,error
+bmr5288_entity2,5288,2,,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr30808_entity1,30808,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr30808_entity1.pdb,success,
+bmr34225_entity2,34225,2,,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34481_entity1,34481,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr34481_entity1.pdb,success,
+bmr34577_entity2,34577,2,,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34578_entity2,34578,2,,failed_retry,500 Server Error: Internal Server Error for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr34584_entity1,34584,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr34584_entity1.pdb,success,
+bmr50015_entity1,50015,1,,failed_retry,422 Client Error:  for url: https://api.esmatlas.com/foldSequence/v1/pdb/
+bmr50566_entity1,50566,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr50566_entity1.pdb,success,
+bmr51024_entity1,51024,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51024_entity1.pdb,success,
+bmr51061_entity1,51061,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51061_entity1.pdb,success,
+bmr51067_entity1,51067,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51067_entity1.pdb,success,
+bmr51500_entity1,51500,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51500_entity1.pdb,success,
+bmr51600_entity1,51600,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51600_entity1.pdb,success,
+bmr51715_entity2,51715,2,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51715_entity2.pdb,success,
+bmr51913_entity1,51913,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr51913_entity1.pdb,success,
+bmr52271_entity1,52271,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr52271_entity1.pdb,success,
+bmr52588_entity1,52588,1,/Users/fangruizhang/Desktop/esm_pipeline/data/esmfold_structures/bmr52588_entity1.pdb,success,
